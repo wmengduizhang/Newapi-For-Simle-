@@ -19,3 +19,7 @@ New API-Simle模板
 模板属于修修补补的没有完全修复完善所有一些问题请见谅。
 
 模板示例截图
+![image](https://github.com/user-attachments/assets/d6be74b2-6594-4edb-918c-1d2b3cd4dda6)
+![image](https://github.com/user-attachments/assets/2bf469d0-f3c0-4d97-9200-4ea64a386a3f)
+![image](https://github.com/user-attachments/assets/4b49ce6f-6940-415c-8edc-8f372160e5d2)
+![image](https://github.com/user-attachments/assets/16b0935a-5c49-4a25-b848-d05617be69be)
