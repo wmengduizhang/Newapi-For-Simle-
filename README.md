@@ -1,20 +1,20 @@
-New API-Simle模板
+New API-Simle模板</br>
 </br>
-基于NewAPI制作的模板仅限于NewApi使用
+基于NewAPI制作的模板仅限于NewApi使用</br>
 </br>
-更新日志:  当前版本V0.01
+更新日志:  当前版本V0.01</br>
 </br>
-    V0.01     2025/2/28 新增首页Html模板V0.1
+    V0.01     2025/2/28 新增首页Html模板V0.1</br>
     </br>
-    V0.01     2025/2/27 修复JS/css问题 适配 New Api 系统
+    V0.01     2025/2/27 修复JS/css问题 适配 New Api 系统</br>
     </br>
-    V0.01     2025/2/26 使用Html模板进行修改
+    V0.01     2025/2/26 使用Html模板进行修改</br>
     </br>
 安装步骤</br>
 </br>
 下载或Clone该仓库
 </br>
-将CSS/images/js文件夹上传到本地服务器，如果你是Docker搭建的New Api 你就需要将这些文件做成直连进行使用。
+将CSS/images/js文件夹上传到本地服务器，如果你是Docker搭建的New Api 你就需要将这些文件做成直连进行使用。</br>
 </br>
 打开11x.html文件全部粘贴或者复制到New APi 的系统设置首页设置文件中</br>
 </br>
